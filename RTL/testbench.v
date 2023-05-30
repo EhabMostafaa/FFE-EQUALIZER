@@ -30,6 +30,7 @@ initial
         initialize();    
         reset();
       
+    //************** don't forget to change the path ********** 
          $readmemb("D:/DIGITAL/Project/DATA/All_Inputs.txt", input_Data);
          $readmemb("D:/DIGITAL/Project/DATA/Expected_outputs.txt", output_Data);
 
